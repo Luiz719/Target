@@ -28,7 +28,7 @@ Pela Soma dos 13 termos da PA, tem-se que:
 $$ SOMA =  \frac{(1+13) \cdot 13}{2} = 91 $$ 
 Logo, o valor final de `SOMA` será **91**.
 
-A versão em código também pode ser encontra em: [Código da questão 1](questão1.py)
+A versão em código também pode ser encontrada em: [Código da questão 1](questão1.py)
 
 ---
 
